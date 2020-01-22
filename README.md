@@ -9,5 +9,5 @@ docker-compose up
 
 Here you have it ! your result is available under `./results/predictions.jpg`
 
-![](https://raw.githubusercontent.com/SCcagg5/darknetquickstart/master/base.jpg =250x)
-![](https://raw.githubusercontent.com/SCcagg5/darknetquickstart/master/predictions.jpg =250x)
+![](https://raw.githubusercontent.com/SCcagg5/darknetquickstart/master/base.jpg)
+![](https://raw.githubusercontent.com/SCcagg5/darknetquickstart/master/predictions.jpg=250x)

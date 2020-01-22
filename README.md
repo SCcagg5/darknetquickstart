@@ -1,4 +1,4 @@
-#darknetQuickStart
+DarknetQuickStart
 
 ```bash
 git clone https://github.com/SCcagg5/darknetquickstart
